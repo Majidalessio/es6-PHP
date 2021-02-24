@@ -1,0 +1,175 @@
+body
+{
+text-align: center;
+background-color: whitesmoke;
+}
+
+.casella
+{
+width: 88%;
+margin:2%;
+border-width:0px;
+border-radius:3px;
+border-color:gray;
+padding:1.5%;
+}
+
+div
+{
+width: 30%;
+margin:auto;
+}
+
+form
+{
+border:solid;
+border-width:1px;
+border-color:gray;
+border-radius:5px;
+padding: 2%;
+background-color:lightgray;
+
+-moz-border-radius: 7%;
+-webkit-border-radius: 7%;
+-khtml-border-radius: 7%;
+
+counter-reset: fieldsets;
+padding: 10px;
+width: 450px;
+}
+
+
+#titolo
+{
+text-align:left;
+margin-left:5%;
+font-size:150%;
+width:100%;
+margin-bottom:4%;
+}
+
+.testo
+{
+text-align:left;
+margin-left:5%;
+font-weight: bold;
+border: none;
+}
+
+.testo1
+{
+margin-top: 1%;
+text-align:left;
+margin-left:3%;
+border: none;
+}
+
+.testo2
+{
+width: 88%;
+margin:2%;
+border-width:0px;
+border-radius:3px;
+border-color:gray;
+padding:1.5%;
+text-align:left;
+}
+
+p{
+text-align:left;
+margin-top:0%;
+margin-bottom:0%;
+margin-left:5%;
+}
+
+#mydiv
+{
+width:100%;
+font-size:60%;
+margin-top:3%;
+text-align:left;
+}
+
+
+#check
+{
+width:4%;
+margin-right: 0px;
+float: left;
+margin-left:5%;
+}
+
+button
+{
+background:blue;
+border-radius:3%;
+border-width:0px;
+padding:2%;
+}
+
+ #conf
+ {
+margin-left:0%;
+background-color:#1E90FF;
+color:white;
+ }
+
+#canc
+{
+margin-left:2%;
+background-color:#A9A9A9;
+color:black;
+}
+
+.errore
+{
+font-size:60%;
+color: #CD5C5C;
+text-align:left;
+margin-left:5%;
+margin-top: 0%;
+font-weight: bold;
+}
+
+#ErrForm
+{
+width:80%;
+border:solid;
+color:#CD5C5C;
+border-width:1px;
+border-color:#e9e9e9;
+border-radius:10px;
+background-color:lightgray;
+margin-bottom:2%;
+text-align:left;
+font-weight: bold;
+}
+
+#login
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;;
+    background-color: lightgray;
+    padding: 2% 2% 2% 2%;
+    height: 30%;
+    width: 20%;
+    border-radius: 15%;
+}
+
+.spacer
+{
+    padding: 2% 2% 2% 2%;
+}
+
+.err
+{
+    width:80%;
+    color:#CD5C5C;
+    background-color:lightgray;
+    margin-bottom:2%;
+    text-align:left;
+    font-weight: bold;
+    font-size: 25%;
+    text-align: center;
+}
